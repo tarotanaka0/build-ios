@@ -1,9 +1,13 @@
 ### Patch toolchain
 
     sudo nano /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cpp
+
 edit
+
         -imacros|-include|-idirafter|-iprefix|-iwithprefix)
+
 to
+
         -imacros|-include|-idirafter|-iprefix|-iwithprefix|-isysroot|-arch)
 
 ### Checkout and apply patches
