@@ -12,7 +12,7 @@ to
 
 ### Checkout and apply patches
 
-    git clone git@github.com:tarotanaka0/build-ios.git
+    git clone https://github.com/tarotanaka0/build-ios.git
     cd build-ios
     git submodule init
     git submodule update
