@@ -1,0 +1,33 @@
+[submodule "avian"]
+	path = avian
+	url = https://github.com/ReadyTalk/avian.git
+[submodule "android/bionic"]
+	path = android/bionic
+	url = https://android.googlesource.com/platform/bionic
+[submodule "android/system/core"]
+	path = android/system/core
+	url = https://android.googlesource.com/platform/system/core
+[submodule "android/external/fdlibm"]
+	path = android/external/fdlibm
+	url = https://android.googlesource.com/platform/external/fdlibm
+[submodule "android/external/icu4c"]
+	path = android/external/icu4c
+	url = git@github.com:tarotanaka0/icu4c.git
+[submodule "android/libnativehelper"]
+	path = android/libnativehelper
+	url = git@github.com:tarotanaka0/libnativehelper.git
+[submodule "android/libcore"]
+	path = android/libcore
+	url = git@github.com:tarotanaka0/android-libcore64.git
+[submodule "hello-ios"]
+	path = hello-ios
+	url = git@github.com:tarotanaka0/hello-ios.git
+[submodule "android/external/openssl"]
+	path = android/external/openssl
+	url = https://android.googlesource.com/platform/external/openssl
+[submodule "android/external/zlib"]
+	path = android/external/zlib
+	url = https://android.googlesource.com/platform/external/zlib
+[submodule "android/openssl-upstream"]
+	path = android/openssl-upstream
+	url = git://git.openssl.org/openssl.git
